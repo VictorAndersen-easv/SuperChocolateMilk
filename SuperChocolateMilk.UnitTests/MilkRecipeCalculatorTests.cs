@@ -5,7 +5,6 @@ using SuperChocolateMilk.Core;
 
 public class MilkRecipeCalculatorTests
 {
-    
     [Fact]
     public void CalculateChocolateSyrup_RegularRichness_ReturnsTenPercentRatio()
     {
